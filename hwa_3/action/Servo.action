@@ -1,0 +1,8 @@
+#goal definition
+int64 servoAngle
+---
+#result definition
+bool angleReached
+---
+#feedback
+float32 percentage
